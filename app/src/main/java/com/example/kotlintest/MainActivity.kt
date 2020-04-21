@@ -64,4 +64,9 @@ class MainActivity : AppCompatActivity() {
             return a + b
         }
     }
+
+    fun ClassTest()
+    {
+        var testClass = TestClass("str")
+    }
 }
